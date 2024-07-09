@@ -1,9 +1,10 @@
 --vegetableEvolution
 {Struct  of VegeItem : slice of price , name and avaibilty
 
-->create a slice  of VegeItem
--->check which price has increased more
----> if price tends to lower or to increase
----->average price of items in the past
------>get the max and minimum prize for each VegeItem
+->create a slice  of VegeItem D
+-->get percentage increase of firstPrice and last-1 price
+--->check which price has increased more
+----> if price tends to lower or to increase
+----->average price of items in the past
+------>get the max and minimum prize for each VegeItem
 }
